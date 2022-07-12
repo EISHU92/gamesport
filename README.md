@@ -7,4 +7,5 @@ by typing:
 \n$ sudo ppil --ins-down gamesport
 Or download this program and type on the gamesport directory:
 \n$ sudo pil install /path/to/the/game/gamesport.tar
+The releases of this pack maybe be more big, every release had the depends of zsnes and gengs-gs, are libs
 By EISHU
