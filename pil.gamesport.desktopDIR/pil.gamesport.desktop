@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Games Port v0.1
+Exec=pil load gamesport
+StartupNotify=true
+Icon=/pil/images/pack.gamesport.png
+Terminal=true
+Comment=Play games: Sonic 1, Sonic 2, Sonic 3, Super Mario...
+Type=Application
+Categories=Game;
+

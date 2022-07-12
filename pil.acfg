@@ -1,0 +1,11 @@
+# GamesPort v0.1 by EISHU
+# Runner: Multi-Arch (Shell)
+# All problems/bugs of this program need to be reported.
+# MultiArch=i386_32BITS/x86-64_64BITS
+
+#Execute the program
+prexe=exe.app
+#Name of the pack (not games_port, its gamesport)
+appname=gamesport
+#Manager of the pack on starting and stop
+prstarter=normal
